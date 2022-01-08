@@ -5,7 +5,6 @@ import com.taryafrica.payroll.models.ResponseClass;
 import com.taryafrica.payroll.repositories.EmployeeRepository;
 import com.taryafrica.payroll.services.SequenceGeneratorService;
 import com.taryafrica.payroll.utils.ResponseCodes;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
