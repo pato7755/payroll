@@ -1,9 +1,4 @@
-package com.metadata.schoolreg.models;
-
-import com.metadata.schoolreg.ResponseCodes;
-
-import java.util.Collections;
-import java.util.List;
+package com.taryafrica.payroll.models;
 
 public class ResponseClass {
 

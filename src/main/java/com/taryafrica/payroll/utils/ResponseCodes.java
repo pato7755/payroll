@@ -1,4 +1,4 @@
-package com.metadata.schoolreg;
+package com.taryafrica.payroll.utils;
 
 public enum ResponseCodes {
     SUCCESS(100),
