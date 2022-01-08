@@ -19,8 +19,10 @@ public class Employee {
 
     @NotBlank
     @Size(max = 100)
-    @Indexed(unique = true)
     private String firstName;
+
+    @NotBlank
+    @Size(max = 100)
     private String lastName;
 
     @NotBlank
