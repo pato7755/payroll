@@ -10,7 +10,7 @@ Basic CRUD operations
 - Update employee details
 - Delete employee by ID
 
-Link to the API documentation - https://documenter.getpostman.com/view/4634888/UVXgNHuu#88036782-5cea-444c-a2cf-7120165fdb8e
+Link to the API documentation - https://documenter.getpostman.com/view/4634888/UVXgNHuu
 
 
 <b>Future Enhancements</b>
